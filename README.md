@@ -1,1 +1,7 @@
 # Economic-Growth-and-Technological-Progress-in-Turkey-An-Analysis-of-Schumpeterian-Mechanisms
+
+The data used in the analysis is in Excel file.
+
+The pdf file "Appendix_Stata" lists the Stata commands that replicate the results.
+
+Abstract: This paper studies a second-generation Schumpeterian model to understand the nature of technological progress and economic growth in Turkey. It identifies some structural parameters numerically and tests whether certain Schumpeterian mechanisms work. Results show that both horizontal (product) and vertical (process) innovation channels operate as determined in theory. However, the pace at which vertical (process) innovation occurs is extremely low, implying that its contribution to long-run productivity growth is severely limited. Since the paper directly estimates the structural forms originating from the general equilibrium of the model economy, results do not carry any endogeneity bias. That the technological landscape very slowly expands in its vertical dimension explains why the Turkish economy did not converge to frontier economies. Since whether a firm should engage in vertical (process) innovation crucially depends on its size in theory, the most appropriate policy under resource constraints may be to strengthen the incumbent firms and support their growth. Put differently, the formation of new enterprises in the horizontal dimension may not be a policy priority.
